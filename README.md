@@ -8,7 +8,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-1. Get [Java 8](https://ffmpeg.org/download.html)
+1. Get [Java 8](https://www.oracle.com/java/technologies/java8.html)
 
 ### Installation
 
@@ -18,6 +18,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/TramHammer/pm_exporter
    ```
+   or download the [repo](https://github.com/TramHammer/pm_exporter/releases/new)
 
 <!-- USAGE EXAMPLES -->
 ## How to use

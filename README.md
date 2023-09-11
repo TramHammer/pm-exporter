@@ -24,6 +24,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+1. Create a import folder in the build folder and drop a map folder inside
+2. Open `config.cfg` and modify any of the parameters.
+3. Update sectors.csv to the sectors that you want exported, follow proper CSV format
+4. Run `run.bat`
+5. Great Success 😁
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 

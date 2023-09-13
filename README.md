@@ -38,8 +38,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-- [] Combine project with extraction
-- [] Automatic zip and corruption methods
+- [ ] Combine project with extraction
+- [ ] Automatic zip and corruption methods
 
 See the [open issues](https://github.com/TramHammer/pm_exporter/issues) for a full list of proposed features (and known issues).
 
